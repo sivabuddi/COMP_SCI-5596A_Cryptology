@@ -1,0 +1,33 @@
+Question 1:
+
+Diffie Hellman key exchange Algorithm:
+
+Given that prime number q=353, the primitive root of 353, g=3. A and B select private keys Xa = 97; Xb = 233
+
+generate key pairs and compute secret Key
+
+Question 2:
+
+Diffie Hellman key exchange Algorithm:
+
+Given that prime number q=71, the primitive root of 71, g=7. A and B select private keys Xa = 5; Xb = 12
+
+generate key pairs and compute secret Key
+
+Question 3:
+
+Diffie Hellman key exchange Algorithm:
+
+Given that prime number q=11, the primitive root of 11, g=2.
+
+1. show that 2 is primitive root of 11
+2. if user A has public key Ya = 9, what is A's private key Xa?
+3. if user B has public key Yb = 3, what is the secret key K shared with A?
+
+
+Question 4:
+Find Primitive root set of Z13, show the steps
+
+
+Question 5:
+Find Primitive root set of Z19, show the steps
